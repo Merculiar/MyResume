@@ -17,7 +17,9 @@ em {
 .job {
   font-size: 15px;
 }
-
+h3 {
+    font-size: 24px;
+}
 .general {
   text-transform: uppercase;
   font-weight: 700;
