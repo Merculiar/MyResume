@@ -1,0 +1,39 @@
+.image-bg {
+    background-image: url("../images/background2.jpg") !important;
+}
+
+a {
+  color:rgb(218, 87, 87);
+}
+
+p {
+  font-size: 18px;
+}
+
+em {
+  font-size: 15px;
+}
+
+.job {
+  font-size: 15px;
+}
+h3 {
+    font-size: 24px;
+}
+.general {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.25em;
+  text-align: center;
+  padding: 0.85rem !important;
+  width: 100% !important;
+  box-shadow: -6px -6px 10px rgba(255, 255, 255, 0.8), 6px 6px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.dropdown-text {
+  margin-top: 1.0rem;
+  padding: 0 0.8rem;
+  margin-bottom: 1.0rem;
+}
